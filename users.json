@@ -1,0 +1,552 @@
+[
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924026"
+        },
+        "userId": "80eae138-045e-4e15-ad6d-a9870ca7d75b",
+        "email": "delgadothomas@example.org",
+        "firstName": "Amanda",
+        "lastName": "Cardenas",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2025-01-22T16:36:38Z"
+        },
+        "profile": {
+            "bio": "Short her opportunity bad million second oil. Third respond college draw establish always investment.\nStyle identify learn media success. Talk sport true apply cultural. Else treat current year.",
+            "avatar": "https://picsum.photos/712/274",
+            "skills": [
+                "plant",
+                "story",
+                "some"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924027"
+        },
+        "userId": "c5e22122-ff23-4ddb-a67c-1d16edb09f96",
+        "email": "juliemartinez@example.org",
+        "firstName": "Ariel",
+        "lastName": "Anderson",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2025-02-18T19:24:02Z"
+        },
+        "profile": {
+            "bio": "Security himself project agreement Mr. Economic bed green. Stage kind successful hair attention set.",
+            "avatar": "https://picsum.photos/542/343",
+            "skills": [
+                "good",
+                "lot",
+                "four"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924028"
+        },
+        "userId": "9dca97e6-a230-4547-a82e-880b21f99433",
+        "email": "hsexton@example.com",
+        "firstName": "Rebecca",
+        "lastName": "Owen",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-05-21T02:17:40Z"
+        },
+        "profile": {
+            "bio": "Conference on society own population. Yeah exactly involve act today admit. Member design throughout wall second research.\nTop establish prepare government. Situation particular force individual.",
+            "avatar": "https://dummyimage.com/956x583",
+            "skills": [
+                "factor",
+                "source",
+                "also"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924029"
+        },
+        "userId": "3442a0a1-810d-4bfb-badf-3b4c8e0ec744",
+        "email": "amberdeleon@example.org",
+        "firstName": "Sara",
+        "lastName": "Martin",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2025-02-27T15:53:30Z"
+        },
+        "profile": {
+            "bio": "Station this compare fear increase require political into.\nLead music hot source. Medical wrong meet drop. Question doctor follow month wife campaign weight.",
+            "avatar": "https://dummyimage.com/897x667",
+            "skills": [
+                "fight",
+                "product",
+                "still"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db792402a"
+        },
+        "userId": "90708aaa-2e59-42bc-9165-7e30650177f1",
+        "email": "brianhayes@example.com",
+        "firstName": "Sonya",
+        "lastName": "Bennett",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2024-12-17T11:44:21Z"
+        },
+        "profile": {
+            "bio": "Movement believe resource sister example. Past visit discuss let drop behind. Sit current police fight manage.\nMaybe have room ago body soon.",
+            "avatar": "https://dummyimage.com/333x779",
+            "skills": [
+                "we",
+                "must",
+                "may"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db792402b"
+        },
+        "userId": "83bf6822-765f-4952-a744-ce2a27c48910",
+        "email": "martinlisa@example.org",
+        "firstName": "Samantha",
+        "lastName": "Maynard",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2024-09-05T01:22:20Z"
+        },
+        "profile": {
+            "bio": "Office trip including kid four trial. Their recognize start simple. Able hot huge may huge model. Choice national fine stay citizen pressure use.",
+            "avatar": "https://picsum.photos/933/441",
+            "skills": [
+                "good",
+                "radio",
+                "control"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db792402c"
+        },
+        "userId": "836089e6-c3fe-414f-a0d2-78dca2a13a46",
+        "email": "brianhernandez@example.org",
+        "firstName": "Heather",
+        "lastName": "Jones",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2024-06-28T20:50:16Z"
+        },
+        "profile": {
+            "bio": "Wife industry public exactly drug each small. Pressure modern attack happen matter. Represent gun activity list call focus you. Lose upon establish fire.",
+            "avatar": "https://dummyimage.com/1021x71",
+            "skills": [
+                "us",
+                "house",
+                "although"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db792402d"
+        },
+        "userId": "e205e859-6775-48f9-9528-c8fc0f531d3f",
+        "email": "matthewkim@example.org",
+        "firstName": "Jill",
+        "lastName": "Lindsey",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-03-19T01:51:41Z"
+        },
+        "profile": {
+            "bio": "Purpose these time arm hard. Wear she how explain.\nMore might weight little pretty many well. Learn manager road.\nAhead yes fill lead. Senior experience interview employee Congress television long.",
+            "avatar": "https://dummyimage.com/267x30",
+            "skills": [
+                "degree",
+                "Mr",
+                "staff"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db792402e"
+        },
+        "userId": "e52046bb-b1d1-4b1e-b5b6-bbc9f4620f8c",
+        "email": "kwilliams@example.org",
+        "firstName": "Meghan",
+        "lastName": "Malone",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2025-01-10T05:31:16Z"
+        },
+        "profile": {
+            "bio": "Participant as measure old who word international. By fine model safe beyond democratic present. Away raise TV pretty see third.",
+            "avatar": "https://dummyimage.com/362x394",
+            "skills": [
+                "floor",
+                "country",
+                "wife"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db792402f"
+        },
+        "userId": "63523a0a-3bf8-40f6-9158-096470c9edcc",
+        "email": "mward@example.com",
+        "firstName": "David",
+        "lastName": "Torres",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2024-11-02T00:25:25Z"
+        },
+        "profile": {
+            "bio": "Early common pressure top deal many physical every. Memory choice stand especially material bring.",
+            "avatar": "https://picsum.photos/994/381",
+            "skills": [
+                "feel",
+                "single",
+                "tree"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924030"
+        },
+        "userId": "ab56a2ba-fd87-453b-8847-53e1df3ea398",
+        "email": "tuckeraaron@example.org",
+        "firstName": "Austin",
+        "lastName": "Reyes",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2024-09-03T16:32:59Z"
+        },
+        "profile": {
+            "bio": "Religious audience leg pay. Miss billion born think yeah factor plan nor.\nWoman center different course little bad. Here go political not. Under past close look matter since.",
+            "avatar": "https://picsum.photos/68/672",
+            "skills": [
+                "treat",
+                "operation",
+                "goal"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924031"
+        },
+        "userId": "b9e39822-c22d-4c32-909b-4094fe927dff",
+        "email": "jasonadams@example.com",
+        "firstName": "Robert",
+        "lastName": "Davis",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2024-07-24T07:43:56Z"
+        },
+        "profile": {
+            "bio": "Spring of past continue. Director discover article all security good effort. Figure guess development place.\nEver move would news. Public I pressure yes since.",
+            "avatar": "https://dummyimage.com/253x836",
+            "skills": [
+                "focus",
+                "television",
+                "network"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924032"
+        },
+        "userId": "65002429-7ff3-474f-ac32-41abd79c7616",
+        "email": "nthomas@example.net",
+        "firstName": "Angela",
+        "lastName": "Anderson",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2024-08-02T13:34:53Z"
+        },
+        "profile": {
+            "bio": "Science pay walk better short. Increase manager everything heavy.\nBoth by example write nation born. Yourself arrive production ago goal like mean best.",
+            "avatar": "https://picsum.photos/434/194",
+            "skills": [
+                "memory",
+                "step",
+                "some"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924033"
+        },
+        "userId": "aae0f8e3-09a9-44c4-ac18-c2a149fcf9f6",
+        "email": "reederin@example.com",
+        "firstName": "Jennifer",
+        "lastName": "Brown",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2024-12-30T17:55:23Z"
+        },
+        "profile": {
+            "bio": "Least between leg note. Near bag owner hit.\nWeight religious ahead speak yard what affect. Role voice market great use skill. Rise condition shake between.",
+            "avatar": "https://picsum.photos/883/672",
+            "skills": [
+                "decade",
+                "agent",
+                "decide"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924034"
+        },
+        "userId": "55a4700b-b40a-47d4-a42e-c6593c960a3a",
+        "email": "christopherglass@example.net",
+        "firstName": "Christopher",
+        "lastName": "Davila",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2024-08-17T22:05:31Z"
+        },
+        "profile": {
+            "bio": "Item place memory job fall letter lead. Benefit reduce newspaper bar.\nSea everyone serve crime doctor herself left. Financial certain defense lay build. Tax identify PM man effort full book.",
+            "avatar": "https://picsum.photos/136/1022",
+            "skills": [
+                "discover",
+                "drive",
+                "act"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924035"
+        },
+        "userId": "4ec339aa-cd55-4ca8-a721-d9f6802bb21e",
+        "email": "phyllisramirez@example.org",
+        "firstName": "Mark",
+        "lastName": "Rojas",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2025-02-16T18:51:21Z"
+        },
+        "profile": {
+            "bio": "Short huge likely good player result. Teach company country. Others none tonight middle.",
+            "avatar": "https://picsum.photos/74/434",
+            "skills": [
+                "computer",
+                "different",
+                "animal"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924036"
+        },
+        "userId": "843897ce-7a40-4b27-857b-acea8a13f048",
+        "email": "marypatel@example.net",
+        "firstName": "Emily",
+        "lastName": "Salazar",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2024-11-04T17:46:03Z"
+        },
+        "profile": {
+            "bio": "Throw serious room. Source bag civil knowledge pull blue office.",
+            "avatar": "https://picsum.photos/176/380",
+            "skills": [
+                "skin",
+                "easy",
+                "where"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924037"
+        },
+        "userId": "d2531afc-b452-41c8-aedc-5ea7419a56de",
+        "email": "owenrobert@example.org",
+        "firstName": "Michael",
+        "lastName": "Murphy",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2024-11-03T15:00:10Z"
+        },
+        "profile": {
+            "bio": "Me continue wide. Behind think network almost hundred. Option project forget ask firm.",
+            "avatar": "https://picsum.photos/92/628",
+            "skills": [
+                "soldier",
+                "dark",
+                "support"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924038"
+        },
+        "userId": "882269bf-98d2-49fa-ad82-abd459a5a093",
+        "email": "nmcdonald@example.net",
+        "firstName": "Amanda",
+        "lastName": "Anderson",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2024-08-13T04:29:35Z"
+        },
+        "profile": {
+            "bio": "Window cup next next. Wonder ask return possible far.\nUp benefit finish happen away kind piece. Wrong man study up per.",
+            "avatar": "https://placekitten.com/1000/452",
+            "skills": [
+                "offer",
+                "arm",
+                "team"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2deca20bfd7db7924039"
+        },
+        "userId": "48d8b21b-113d-45ac-90ee-6b56f8008474",
+        "email": "rebeccabrown@example.com",
+        "firstName": "Donna",
+        "lastName": "Peterson",
+        "role": "instructor",
+        "dateJoined": {
+            "$date": "2024-11-04T07:10:03Z"
+        },
+        "profile": {
+            "bio": "Air least live. Lead cup room. Once environment trade market church democratic interview.",
+            "avatar": "https://dummyimage.com/680x746",
+            "skills": [
+                "poor",
+                "political",
+                "public"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e319da20bfd7db7924084"
+        },
+        "userId": "88500264-4506-43e8-9deb-75d2a258291d",
+        "email": "devinshannon@example.org",
+        "firstName": "Miguel",
+        "lastName": "Curtis",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-06-15T03:36:13.643Z"
+        },
+        "profile": {
+            "bio": "",
+            "avatar": "",
+            "skills": []
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e31e6a20bfd7db7924085"
+        },
+        "userId": "b8dff4bd-b515-44ae-8bdf-966480502b75",
+        "email": "peter13@example.com",
+        "firstName": "Mark",
+        "lastName": "Owens",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-06-15T03:37:26.563Z"
+        },
+        "profile": {
+            "bio": "",
+            "avatar": "",
+            "skills": []
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e3260a20bfd7db7924086"
+        },
+        "userId": "c09eac95-8d55-44e3-8fe7-b6e721a7458b",
+        "email": "hbradford@example.com",
+        "firstName": "Gregory",
+        "lastName": "Rodriguez",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-06-15T03:39:28.195Z"
+        },
+        "profile": {
+            "bio": "",
+            "avatar": "",
+            "skills": []
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e333ea20bfd7db7924087"
+        },
+        "userId": "b131c636-c8ce-4ad2-bc90-011da11e161d",
+        "email": "wongmark@example.net",
+        "firstName": "Lisa",
+        "lastName": "Ryan",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-06-15T03:43:10.745Z"
+        },
+        "profile": {
+            "bio": "",
+            "avatar": "",
+            "skills": []
+        },
+        "isActive": true
+    },
+    {
+        "_id": {
+            "$oid": "684e9729a20bfd7db792408c"
+        },
+        "userId": "8f3c5723-9bd4-4681-87aa-c335d3f3afb3",
+        "email": "existing@email.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-06-15T10:49:29.276Z"
+        },
+        "isActive": true
+    }
+]

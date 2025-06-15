@@ -1,0 +1,301 @@
+[
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924051"
+        },
+        "lessonId": "24d26f1b-6a5e-43e4-a489-f950b3b1114d",
+        "courseId": "0250d685-fbb9-447a-a040-885f9fbd81b9",
+        "title": "Lesson 1 - War focus.",
+        "content": "Collection home compare left democratic. Your hundred kitchen order those sign western environment. Southern improve method carry dog start cover. Money manager news western. Thousand many my perhaps difference list.",
+        "duration": 36,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.221Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924052"
+        },
+        "lessonId": "46e0e0c7-a85b-48e1-9fd0-0ac3b3c8f6a3",
+        "courseId": "0250d685-fbb9-447a-a040-885f9fbd81b9",
+        "title": "Lesson 2 - Fill there conference add.",
+        "content": "Onto challenge back record no join he. Many weight prove tough camera trial direction. Investment fall military human. Offer service success suffer. Let PM bad expect recent soon.",
+        "duration": 18,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.221Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924053"
+        },
+        "lessonId": "28e56838-8b79-4396-b79b-f21982284d44",
+        "courseId": "0250d685-fbb9-447a-a040-885f9fbd81b9",
+        "title": "Lesson 3 - Group visit safe draw.",
+        "content": "What worry entire simple control pass. Finally set development expect. Both admit many view leg item as.",
+        "duration": 37,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.221Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924054"
+        },
+        "lessonId": "143f7447-6717-49ff-879a-3fbbf8c88fab",
+        "courseId": "cc7830b8-cb9a-465a-971e-f7901fd72e3b",
+        "title": "Lesson 1 - Fill able senior talk.",
+        "content": "As our writer last. Agency box culture music. Suddenly carry seek pick involve number imagine size.",
+        "duration": 57,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.222Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924055"
+        },
+        "lessonId": "4fe89054-f0b1-4f7b-8f6b-5b242b3e8b9f",
+        "courseId": "cc7830b8-cb9a-465a-971e-f7901fd72e3b",
+        "title": "Lesson 2 - Window effect.",
+        "content": "Perhaps information personal able conference senior seat. Particular mean sit give mind great. Answer west agency expect notice. Answer computer you entire no serious. Plan writer whose any cause fear debate.",
+        "duration": 41,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.222Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924056"
+        },
+        "lessonId": "46b05a22-89ed-4b7e-8f12-4f4f8fc42adc",
+        "courseId": "cc7830b8-cb9a-465a-971e-f7901fd72e3b",
+        "title": "Lesson 3 - Home final.",
+        "content": "Enough reveal over. Fish body protect institution production. Some trip down amount participant major to. Administration almost sell bag course church program break. Night across seek change seven discussion college. Community air evidence.",
+        "duration": 48,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.222Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924057"
+        },
+        "lessonId": "39cbf976-d7b3-4393-b41b-dae8b899cf6a",
+        "courseId": "61a9ff3e-c18b-4179-b634-5934ca789c38",
+        "title": "Lesson 1 - Real president.",
+        "content": "Stuff artist time support everyone artist. Green process technology summer father group entire stop. Grow itself young within. News some national argue expect nice. Situation own free hospital list.",
+        "duration": 10,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.223Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924058"
+        },
+        "lessonId": "4cd417cc-fdf9-4c9c-b3fa-766dc3461ed0",
+        "courseId": "61a9ff3e-c18b-4179-b634-5934ca789c38",
+        "title": "Lesson 2 - Pull interest.",
+        "content": "American generation second suddenly I off. Treat thus success able conference. East he raise section. Democratic politics great remember doctor sense pattern blood. Father six power phone.",
+        "duration": 55,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.223Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924059"
+        },
+        "lessonId": "8d622ab8-c882-44ef-a310-0a6c00c02b23",
+        "courseId": "61a9ff3e-c18b-4179-b634-5934ca789c38",
+        "title": "Lesson 3 - Need community commercial.",
+        "content": "Business hope customer citizen discussion level. Front a indeed else. Particularly reduce business much. Everybody woman trip commercial recognize. Know near successful want us.",
+        "duration": 57,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.223Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db792405a"
+        },
+        "lessonId": "46f78114-3639-4c8a-9298-eeb0ef31e8c4",
+        "courseId": "61a9ff3e-c18b-4179-b634-5934ca789c38",
+        "title": "Lesson 4 - Look animal check.",
+        "content": "Push send remember. Fast seek billion understand bed meet doctor. Property worker pattern include up.",
+        "duration": 33,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.224Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db792405b"
+        },
+        "lessonId": "bb4c3136-d1fc-481f-8da5-201c69b92c60",
+        "courseId": "4bdffa78-8718-437f-8bdb-96df47aa28d1",
+        "title": "Lesson 1 - Beautiful lot top.",
+        "content": "Whom total ten boy help. Throughout protect girl wall. Community involve before institution yet quickly.",
+        "duration": 40,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.224Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db792405c"
+        },
+        "lessonId": "3a0a76f9-07bf-4a35-a413-3b1131816025",
+        "courseId": "4bdffa78-8718-437f-8bdb-96df47aa28d1",
+        "title": "Lesson 2 - Ground condition become.",
+        "content": "Green party them church. Executive involve none around. Republican trade life talk. Protect sister population value get option. Say last my. Five raise hot condition major fine rise career.",
+        "duration": 48,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.224Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db792405d"
+        },
+        "lessonId": "b8604d92-246e-45ae-a8c6-6110f9f7d93c",
+        "courseId": "4bdffa78-8718-437f-8bdb-96df47aa28d1",
+        "title": "Lesson 3 - Could foreign heart.",
+        "content": "Eight several day everything hold expect believe. Because should outside. Just expect age magazine resource wide. Front they store value realize certainly religious.",
+        "duration": 48,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.224Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db792405e"
+        },
+        "lessonId": "65939657-4072-43e6-815a-20f3c4d73711",
+        "courseId": "dcd963a0-6591-449c-940d-b8dee6ecc6f4",
+        "title": "Lesson 1 - News how our.",
+        "content": "Side treat quality specific evening free wish. Seat figure ever any which hospital outside. Or serve than watch major leader. Power feel simply different pull size activity city. Child must final set place society those.",
+        "duration": 14,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.225Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db792405f"
+        },
+        "lessonId": "c5a94fe6-e743-406e-8277-4cee6f429d18",
+        "courseId": "dcd963a0-6591-449c-940d-b8dee6ecc6f4",
+        "title": "Lesson 2 - Community arm ok throughout pay.",
+        "content": "Term operation listen majority together else. And charge history election tend question. Religious word ten commercial issue energy goal me. Do deal group could current long relationship.",
+        "duration": 40,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.225Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924060"
+        },
+        "lessonId": "697eb849-1f9a-4682-ab64-d51de0f73096",
+        "courseId": "471b6e7e-9025-4cf1-9d06-d36f3e3e2f25",
+        "title": "Lesson 1 - Chance this show million level.",
+        "content": "Tonight wind performance section social. These door event let hope difference. Protect television garden second five. Plan husband foot sort tough radio everybody small. Particularly another popular during ready catch.",
+        "duration": 45,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.225Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924061"
+        },
+        "lessonId": "9f2a894a-40eb-4331-aaf2-994725d6aba5",
+        "courseId": "471b6e7e-9025-4cf1-9d06-d36f3e3e2f25",
+        "title": "Lesson 2 - Source election about job.",
+        "content": "Serve red growth art make only choice back. Matter how able myself else picture ahead decision. Stage walk Congress my hour staff watch.",
+        "duration": 21,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.226Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924062"
+        },
+        "lessonId": "9c1f55c2-95ee-4fa0-94f9-780f05d169ff",
+        "courseId": "cf32082d-1951-44e6-84d5-e1aaf498d947",
+        "title": "Lesson 1 - Within behind already rate staff.",
+        "content": "Hundred they behind debate later. Radio theory until morning. Wrong form do front respond.",
+        "duration": 25,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.226Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924063"
+        },
+        "lessonId": "707a27ab-8291-491a-a2dd-9bcde2fa88d4",
+        "courseId": "cf32082d-1951-44e6-84d5-e1aaf498d947",
+        "title": "Lesson 2 - Foot loss development.",
+        "content": "Perhaps month seem could. Form pull true interview after involve skin able. Nothing administration policy.",
+        "duration": 36,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.227Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924064"
+        },
+        "lessonId": "7c87f3d8-4242-4a0e-898a-eff85defd37c",
+        "courseId": "cf32082d-1951-44e6-84d5-e1aaf498d947",
+        "title": "Lesson 3 - Small suggest thing rest finally.",
+        "content": "Author middle adult gun. Growth individual real into go wrong man. Future worry compare. Save threat particularly specific serious data. Wife amount fund summer push join along. Force cold attorney address part black ability.",
+        "duration": 35,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.228Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924065"
+        },
+        "lessonId": "78c14028-8b17-43d6-980c-981838684cf1",
+        "courseId": "cef9c95f-458c-476a-aca8-d47da212279e",
+        "title": "Lesson 1 - Stock artist claim authority.",
+        "content": "Chance no same short president trouble successful. Open common find throw course visit. Data new series positive story process bank career.",
+        "duration": 28,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.229Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2f8da20bfd7db7924066"
+        },
+        "lessonId": "ca247e0c-f96e-4831-af71-d9762fbb269b",
+        "courseId": "cef9c95f-458c-476a-aca8-d47da212279e",
+        "title": "Lesson 2 - Offer toward.",
+        "content": "Discussion subject experience task degree kitchen. Better trouble budget decade once between deep college. Reduce project myself medical. Simple out year write time do attention. Wall skill want really newspaper possible. Keep easy continue although.",
+        "duration": 52,
+        "createdAt": {
+            "$date": "2025-06-15T03:27:25.229Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e333fa20bfd7db792408a"
+        },
+        "lessonId": "ac7faffc-55fc-4a6c-83f1-1b09d6a6d85e",
+        "courseId": "0250d685-fbb9-447a-a040-885f9fbd81b9",
+        "title": "Lesson: Variables",
+        "content": "Understanding variables in Python.",
+        "duration": 30,
+        "createdAt": {
+            "$date": "2025-06-15T03:43:11.174Z"
+        }
+    }
+]

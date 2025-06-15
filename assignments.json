@@ -1,0 +1,194 @@
+[
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db7924067"
+        },
+        "assignmentId": "a2a48221-8022-4988-aa53-17e91f2fe417",
+        "courseId": "0250d685-fbb9-447a-a040-885f9fbd81b9",
+        "title": "Assignment 1 - Orchestrate Enterprise Vortals",
+        "description": "Environment training ability star itself exactly. Here mean politics reveal.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:21Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.706Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db7924068"
+        },
+        "assignmentId": "362555b5-5dcc-4c1c-8bbf-8eb9a9f30a8f",
+        "courseId": "0250d685-fbb9-447a-a040-885f9fbd81b9",
+        "title": "Assignment 2 - Target B2C Relationships",
+        "description": "But fill century reach box. Simple job do art example blue feeling nation. Nearly nature can turn interesting argue.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:05Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.707Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db7924069"
+        },
+        "assignmentId": "3dd59ba5-c4a0-4b2b-b51c-7c744aff2d5d",
+        "courseId": "cc7830b8-cb9a-465a-971e-f7901fd72e3b",
+        "title": "Assignment 1 - Repurpose Next-Generation Web-Readiness",
+        "description": "Will draw weight argue side might. Open degree somebody.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:40Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.707Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db792406a"
+        },
+        "assignmentId": "15b2a94a-b8e6-4bd0-8aec-f21f3c4b4e2a",
+        "courseId": "61a9ff3e-c18b-4179-b634-5934ca789c38",
+        "title": "Assignment 1 - Morph Enterprise Markets",
+        "description": "Look shake seem fast strong lose. Thought early history couple understand side.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:35Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.707Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db792406b"
+        },
+        "assignmentId": "65b71018-6fde-41f1-8aba-c5db09050102",
+        "courseId": "4bdffa78-8718-437f-8bdb-96df47aa28d1",
+        "title": "Assignment 1 - Seize Frictionless Mindshare",
+        "description": "Home follow old point major detail. Measure director still.",
+        "dueDate": {
+            "$date": "2025-06-15T03:28:47Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.708Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db792406c"
+        },
+        "assignmentId": "623b913a-1fc8-441d-a28b-0bf841118738",
+        "courseId": "dcd963a0-6591-449c-940d-b8dee6ecc6f4",
+        "title": "Assignment 1 - Revolutionize One-To-One Convergence",
+        "description": "Team range professional young. Loss anything amount trip along cup. Appear report guess message rate laugh.",
+        "dueDate": {
+            "$date": "2025-06-15T03:28:51Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.708Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db792406d"
+        },
+        "assignmentId": "b351bfd5-1ef1-4c6f-ae9e-437320f38025",
+        "courseId": "dcd963a0-6591-449c-940d-b8dee6ecc6f4",
+        "title": "Assignment 2 - Brand Dot-Com Metrics",
+        "description": "Strategy number hour food stuff impact. Never ten energy sit support work. Ok already loss any official growth night.",
+        "dueDate": {
+            "$date": "2025-06-15T03:28:58Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.708Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db792406e"
+        },
+        "assignmentId": "babdc064-7e27-4c44-940b-4d49b7c9bd8d",
+        "courseId": "471b6e7e-9025-4cf1-9d06-d36f3e3e2f25",
+        "title": "Assignment 1 - Seize Clicks-And-Mortar Solutions",
+        "description": "Control direction from.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:07Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.708Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db792406f"
+        },
+        "assignmentId": "3f9121cf-8f64-4680-8048-ccb658aac9d5",
+        "courseId": "471b6e7e-9025-4cf1-9d06-d36f3e3e2f25",
+        "title": "Assignment 2 - Expedite Back-End Users",
+        "description": "Ability carry despite improve different. Affect hold actually. Hotel water last real answer safe.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:08Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.709Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db7924070"
+        },
+        "assignmentId": "1e365c5d-fc6d-4b1c-82b0-51b53c12eea8",
+        "courseId": "cf32082d-1951-44e6-84d5-e1aaf498d947",
+        "title": "Assignment 1 - Enable Bricks-And-Clicks Vortals",
+        "description": "Argue market sport financial. Book health spring ago maybe lot discover. Me traditional question early.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:14Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.709Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db7924071"
+        },
+        "assignmentId": "b6f3eaa5-6c05-42b3-ab10-19ad68125933",
+        "courseId": "cef9c95f-458c-476a-aca8-d47da212279e",
+        "title": "Assignment 1 - Scale Dot-Com Users",
+        "description": "Network get PM one rise material. Position act environment six send ago key.",
+        "dueDate": {
+            "$date": "2025-06-15T03:29:21Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.710Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684e2fdaa20bfd7db7924072"
+        },
+        "assignmentId": "6457d430-a4cf-412b-b128-cbb0346bd908",
+        "courseId": "cef9c95f-458c-476a-aca8-d47da212279e",
+        "title": "Assignment 2 - Target Frictionless Networks",
+        "description": "Bar drug require person send. Side list why so.",
+        "dueDate": {
+            "$date": "2025-06-15T03:28:47Z"
+        },
+        "maxScore": 100,
+        "createdAt": {
+            "$date": "2025-06-15T03:28:42.710Z"
+        }
+    }
+]

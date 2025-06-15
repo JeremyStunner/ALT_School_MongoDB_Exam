@@ -1,0 +1,226 @@
+[
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db792403a"
+        },
+        "courseId": "0250d685-fbb9-447a-a040-885f9fbd81b9",
+        "title": "Song join yeah outside.",
+        "description": "Owner her suddenly all notice else voice her.\nDirector pick listen wear same community off. Occur law long store which miss beat collection.",
+        "instructorId": "aae0f8e3-09a9-44c4-ac18-c2a149fcf9f6",
+        "category": "Data Science",
+        "level": "beginner",
+        "duration": 27,
+        "price": 64.82,
+        "tags": [
+            "much",
+            "sure",
+            "single"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.179Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.179Z"
+        },
+        "isPublished": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db792403b"
+        },
+        "courseId": "cc7830b8-cb9a-465a-971e-f7901fd72e3b",
+        "title": "Hope reality both ahead candidate.",
+        "description": "Just rather particular economic car paper standard there. Course blue shoulder foreign boy ability college.\nFactor effect support government system father official.",
+        "instructorId": "90708aaa-2e59-42bc-9165-7e30650177f1",
+        "category": "AI",
+        "level": "beginner",
+        "duration": 49,
+        "price": 27.11,
+        "tags": [
+            "onto",
+            "apply",
+            "best"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.180Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.180Z"
+        },
+        "isPublished": false
+    },
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db792403c"
+        },
+        "courseId": "61a9ff3e-c18b-4179-b634-5934ca789c38",
+        "title": "Source contain believe.",
+        "description": "Participant power room enjoy appear. Ready pattern large. Class environmental require company American production drop.",
+        "instructorId": "e52046bb-b1d1-4b1e-b5b6-bbc9f4620f8c",
+        "category": "Math",
+        "level": "intermediate",
+        "duration": 10,
+        "price": 60.65,
+        "tags": [
+            "score",
+            "trouble",
+            "bar"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.180Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.180Z"
+        },
+        "isPublished": false
+    },
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db792403d"
+        },
+        "courseId": "4bdffa78-8718-437f-8bdb-96df47aa28d1",
+        "title": "Task red become.",
+        "description": "Fish budget discover matter water three. Question put join carry more.\nWonder room theory.\nChance ask whatever process although. Author yard color strong stay discussion.",
+        "instructorId": "d2531afc-b452-41c8-aedc-5ea7419a56de",
+        "category": "Data Science",
+        "level": "beginner",
+        "duration": 5,
+        "price": 31.49,
+        "tags": [
+            "consumer",
+            "make",
+            "end"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.181Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.181Z"
+        },
+        "isPublished": false
+    },
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db792403e"
+        },
+        "courseId": "dcd963a0-6591-449c-940d-b8dee6ecc6f4",
+        "title": "Sea population employee heart.",
+        "description": "Idea throw pattern someone agreement already. Beat carry truth must model bank.",
+        "instructorId": "e52046bb-b1d1-4b1e-b5b6-bbc9f4620f8c",
+        "category": "Programming",
+        "level": "advanced",
+        "duration": 45,
+        "price": 129.03,
+        "tags": [
+            "dark",
+            "various",
+            "level"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.181Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.181Z"
+        },
+        "isPublished": false
+    },
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db792403f"
+        },
+        "courseId": "471b6e7e-9025-4cf1-9d06-d36f3e3e2f25",
+        "title": "Activity there book determine.",
+        "description": "Family what your something however right. Summer that order stuff quality card visit. Break remain help weight.\nSpeak loss between special dinner finish. Poor learn total sing material seem.",
+        "instructorId": "55a4700b-b40a-47d4-a42e-c6593c960a3a",
+        "category": "Math",
+        "level": "intermediate",
+        "duration": 14,
+        "price": 167.06,
+        "tags": [
+            "others",
+            "as",
+            "with"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.182Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.182Z"
+        },
+        "isPublished": false
+    },
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db7924040"
+        },
+        "courseId": "cf32082d-1951-44e6-84d5-e1aaf498d947",
+        "title": "Subject analysis apply in.",
+        "description": "Consumer hand daughter leg wide will. Education American change the customer. Yes third structure.\nBar should church though. Teach try large by voice fire lead scientist.",
+        "instructorId": "ab56a2ba-fd87-453b-8847-53e1df3ea398",
+        "category": "Business",
+        "level": "beginner",
+        "duration": 7,
+        "price": 51.1,
+        "tags": [
+            "give",
+            "coach",
+            "kitchen"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.182Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.182Z"
+        },
+        "isPublished": true
+    },
+    {
+        "_id": {
+            "$oid": "684e2e23a20bfd7db7924041"
+        },
+        "courseId": "cef9c95f-458c-476a-aca8-d47da212279e",
+        "title": "Check owner clear back person black clearly.",
+        "description": "Call speak war moment century. True challenge clear happy activity. Home have city.",
+        "instructorId": "55a4700b-b40a-47d4-a42e-c6593c960a3a",
+        "category": "Data Science",
+        "level": "advanced",
+        "duration": 13,
+        "price": 100.6,
+        "tags": [
+            "side",
+            "have",
+            "particularly"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:21:23.183Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:21:23.183Z"
+        },
+        "isPublished": false
+    },
+    {
+        "_id": {
+            "$oid": "684e333ea20bfd7db7924088"
+        },
+        "courseId": "cab0eb19-4353-4064-817d-cc2bc58914ad",
+        "title": "New Python Basics",
+        "description": "Intro to Python.",
+        "instructorId": "80eae138-045e-4e15-ad6d-a9870ca7d75b",
+        "category": "Programming",
+        "level": "beginner",
+        "duration": 5,
+        "price": 0,
+        "tags": [
+            "python",
+            "beginner"
+        ],
+        "createdAt": {
+            "$date": "2025-06-15T03:43:10.880Z"
+        },
+        "updatedAt": {
+            "$date": "2025-06-15T03:43:10.880Z"
+        },
+        "isPublished": false
+    }
+]

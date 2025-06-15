@@ -1,0 +1,240 @@
+[
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924073"
+        },
+        "submissionId": "fe92db81-bc8d-47ca-b782-a283c8693d0b",
+        "assignmentId": "a2a48221-8022-4988-aa53-17e91f2fe417",
+        "studentId": "836089e6-c3fe-414f-a0d2-78dca2a13a46",
+        "submittedAt": {
+            "$date": "2025-06-15T03:31:56Z"
+        },
+        "content": "Home explain cell edge however. Science reveal hit dog. Prevent book eye kitchen authority government. Everybody help develop major today. Herself must left option training available main.",
+        "grade": 54,
+        "feedback": "Central stuff mean east join."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924074"
+        },
+        "submissionId": "85c4e762-5b39-47f7-9e70-0685856375ae",
+        "assignmentId": "a2a48221-8022-4988-aa53-17e91f2fe417",
+        "studentId": "b9e39822-c22d-4c32-909b-4094fe927dff",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:03Z"
+        },
+        "content": "Become particular animal issue large nice. Water mother wind position. Sing control window. Rock lay home wall right. Stand exist manager top picture start write test.",
+        "grade": 65,
+        "feedback": "Late writer note radio increase what."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924075"
+        },
+        "submissionId": "381abd01-02d9-4bb6-ac20-5dce84c41ad5",
+        "assignmentId": "362555b5-5dcc-4c1c-8bbf-8eb9a9f30a8f",
+        "studentId": "e205e859-6775-48f9-9528-c8fc0f531d3f",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:02Z"
+        },
+        "content": "Son hold continue start reveal ready notice four. Never remember surface wind. Lawyer time moment. Bill cultural fear. Because peace cup source little company. Physical natural general.",
+        "grade": 65,
+        "feedback": "Anyone message catch administration customer former whom."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924076"
+        },
+        "submissionId": "7b6b55c2-31cc-4562-80e6-1c4257624b40",
+        "assignmentId": "362555b5-5dcc-4c1c-8bbf-8eb9a9f30a8f",
+        "studentId": "b9e39822-c22d-4c32-909b-4094fe927dff",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:26Z"
+        },
+        "content": "Later fish watch situation bad success up be. Everything rule base training offer theory movie lead. Out daughter check traditional former. Either where my beautiful sometimes opportunity mean.",
+        "grade": 59,
+        "feedback": "Much may memory finish."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924077"
+        },
+        "submissionId": "2e4bc6e4-130d-460c-94ce-368a9637940c",
+        "assignmentId": "3dd59ba5-c4a0-4b2b-b51c-7c744aff2d5d",
+        "studentId": "882269bf-98d2-49fa-ad82-abd459a5a093",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:32Z"
+        },
+        "content": "Many wait effort onto give forget concern. Southern the arm instead. Range see study red officer rule east. City less my last. View candidate quality debate stop.",
+        "grade": 53,
+        "feedback": "Everything cup nearly effect record bed."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924078"
+        },
+        "submissionId": "3c48dd4a-fe3f-4007-9509-f779b02cfd54",
+        "assignmentId": "3dd59ba5-c4a0-4b2b-b51c-7c744aff2d5d",
+        "studentId": "9dca97e6-a230-4547-a82e-880b21f99433",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:37Z"
+        },
+        "content": "Resource before conference item. Only present water school establish dinner practice. Value family product mouth themselves direction.",
+        "grade": 79,
+        "feedback": "Because free forward at already surface Democrat to."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924079"
+        },
+        "submissionId": "7dd8b008-ff5f-401c-aad3-8c3fa0d43809",
+        "assignmentId": "65b71018-6fde-41f1-8aba-c5db09050102",
+        "studentId": "63523a0a-3bf8-40f6-9158-096470c9edcc",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:38Z"
+        },
+        "content": "Leave watch leave administration describe them. Discuss save allow back class run economic summer. Describe kind dinner child simple piece. Today money window local. Amount per not kid guy area me.",
+        "grade": 88,
+        "feedback": "Likely picture tree cause guy customer sell."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db792407a"
+        },
+        "submissionId": "7180bce3-4a8d-44f8-8d12-76526a5af2c7",
+        "assignmentId": "623b913a-1fc8-441d-a28b-0bf841118738",
+        "studentId": "9dca97e6-a230-4547-a82e-880b21f99433",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:18Z"
+        },
+        "content": "Catch reduce economic. So which remember power. Surface have any save network.",
+        "grade": 67,
+        "feedback": "Exactly past while hot rock phone send."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db792407b"
+        },
+        "submissionId": "fc9c9639-6d85-4aae-ad70-c474479eec89",
+        "assignmentId": "623b913a-1fc8-441d-a28b-0bf841118738",
+        "studentId": "882269bf-98d2-49fa-ad82-abd459a5a093",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:34Z"
+        },
+        "content": "Pick television perform page meeting itself. Impact discussion turn simply. Center difficult from news class. Scientist available first after together reality. Mission citizen those.",
+        "grade": 77,
+        "feedback": "Green here nation for."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db792407c"
+        },
+        "submissionId": "73a9ef92-5326-4d4f-b4fa-342e68b1d1bb",
+        "assignmentId": "b351bfd5-1ef1-4c6f-ae9e-437320f38025",
+        "studentId": "b9e39822-c22d-4c32-909b-4094fe927dff",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:05Z"
+        },
+        "content": "Explain choice often. All focus must. Politics hotel particular budget tree. Do behavior blue technology relationship factor.",
+        "grade": 92,
+        "feedback": "Good computer imagine."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db792407d"
+        },
+        "submissionId": "f6efd91e-d689-49db-8c2e-0328aa26bd51",
+        "assignmentId": "b351bfd5-1ef1-4c6f-ae9e-437320f38025",
+        "studentId": "9dca97e6-a230-4547-a82e-880b21f99433",
+        "submittedAt": {
+            "$date": "2025-06-15T03:31:56Z"
+        },
+        "content": "Night ahead someone despite. City worry notice. Style why politics piece camera anyone. Generation career mind.",
+        "grade": 93,
+        "feedback": "Before some pressure would shake forget mind bag."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db792407e"
+        },
+        "submissionId": "1f39bc89-e233-466d-82fb-b6e468408884",
+        "assignmentId": "babdc064-7e27-4c44-940b-4d49b7c9bd8d",
+        "studentId": "63523a0a-3bf8-40f6-9158-096470c9edcc",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:51Z"
+        },
+        "content": "Build wonder left minute. Bag half blue very interesting last. Feel interest how to above significant responsibility. Teach miss baby hope east. Expert approach benefit energy reason.",
+        "grade": 60,
+        "feedback": "Top yes office could machine suffer speech."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db792407f"
+        },
+        "submissionId": "87094d23-f957-4b75-b81f-79025881851d",
+        "assignmentId": "3f9121cf-8f64-4680-8048-ccb658aac9d5",
+        "studentId": "63523a0a-3bf8-40f6-9158-096470c9edcc",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:36Z"
+        },
+        "content": "Debate data teacher describe. Difficult morning economy eat prevent enjoy administration. Article red must itself write part heavy article. You day student threat few little. Box child agent professor argue message.",
+        "grade": 67,
+        "feedback": "I within dream start special smile without listen."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924080"
+        },
+        "submissionId": "4404e99c-ef09-4cc6-90f5-e6ac3316e0cd",
+        "assignmentId": "1e365c5d-fc6d-4b1c-82b0-51b53c12eea8",
+        "studentId": "882269bf-98d2-49fa-ad82-abd459a5a093",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:44Z"
+        },
+        "content": "Drug exist exist partner. Board nice but read boy agent. Once painting continue catch form let military. Carry dog indicate up discussion together.",
+        "grade": 78,
+        "feedback": "Item article safe few rule about such."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924081"
+        },
+        "submissionId": "027d9153-1118-4ac0-8904-d62d20893910",
+        "assignmentId": "1e365c5d-fc6d-4b1c-82b0-51b53c12eea8",
+        "studentId": "b9e39822-c22d-4c32-909b-4094fe927dff",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:39Z"
+        },
+        "content": "Go cell improve lose assume create them official. Speech win red generation. Born half receive one break. Three mean any throughout gas now choose. Right pull pattern natural cup dream.",
+        "grade": 56,
+        "feedback": "Light surface window in film."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924082"
+        },
+        "submissionId": "b4493271-2844-4427-95b0-8779eb52656d",
+        "assignmentId": "b6f3eaa5-6c05-42b3-ab10-19ad68125933",
+        "studentId": "63523a0a-3bf8-40f6-9158-096470c9edcc",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:34Z"
+        },
+        "content": "Deal better quality star thing debate drug. Mr arm alone decide right society too. Recent hour reality toward. Others that security sister thank local.",
+        "grade": 87,
+        "feedback": "Back writer church."
+    },
+    {
+        "_id": {
+            "$oid": "684e30d3a20bfd7db7924083"
+        },
+        "submissionId": "6b36eb58-760c-4bb7-b9f0-28d7b01edf96",
+        "assignmentId": "6457d430-a4cf-412b-b128-cbb0346bd908",
+        "studentId": "63523a0a-3bf8-40f6-9158-096470c9edcc",
+        "submittedAt": {
+            "$date": "2025-06-15T03:32:36Z"
+        },
+        "content": "Myself as return spring college according. Must financial but new trial. Discover buy traditional ground save. Yes sure play work reduce course style.",
+        "grade": 89,
+        "feedback": "Start ability as positive."
+    }
+]
